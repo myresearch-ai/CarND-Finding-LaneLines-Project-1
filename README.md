@@ -4,7 +4,7 @@
 Overview
 ---
 
-**Perception** is a fundamental requirement of any **autonomous system**. In order to successfully navigate the world (environment), an autonomous system - a self-driving car in this application - must be capable of perceiving its surroundings such as lane lines, road curves, pedestrians, etc. **Computer vision** techniques are used to achieve this goal - perception. Images & videos from cameras & other sensors are used as inputs in the computer vision system which is dsigned to extract useful features to allow a self-driving car perceive its environment. 
+**Perception** is a fundamental requirement of any **autonomous system**. In order to successfully navigate the world (environment), an autonomous system - a self-driving car in this application - must be capable of perceiving its surroundings such as lane lines, road curves, pedestrians, etc. **Computer vision** techniques are used to achieve this goal - perception. Images & videos from cameras & other sensors are used as inputs in the computer vision system which is deigned to extract useful features to allow a self-driving car perceive its environment. 
 
 Goal
 ---
