@@ -26,4 +26,4 @@ Several helper functions were provided to implement these steps - a few of these
 
 ### 3. Possible Improvements
 
-The current implementation performs well as long as lanes are straight. As demonstrated in the last application of the pipeline to a curved section of the road, the car fails to accurately perceive lanes. This reveals a weakness of this implementation which will be solved in later projects that are complex enough. 
+The current implementation performs well as long as lanes are straight. As demonstrated in the last application of the pipeline to a curved section of the road (optional challenge), the car fails to accurately perceive lanes. This reveals a weakness of this implementation which will be solved in later projects that are complex enough. 
