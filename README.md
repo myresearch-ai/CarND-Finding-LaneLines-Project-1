@@ -33,6 +33,9 @@ Future Improvements
 The pipeline performs well detecting straight lane lines. Applying it to the optional challenge problem reveals the current implementation's weakness - failure to accurately perceive curved lane lines. Future implementations will improve upon this weakness with more complex features. 
 
 
-**Credits**
 
+
+References & Credits
+---
+https://classroom.udacity.com/nanodegrees/nd013/parts/168c60f1-cc92-450a-a91b-e427c326e6a7
 https://github.com/alkasm/SDCND-Project-1
